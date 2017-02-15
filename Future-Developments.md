@@ -3,6 +3,9 @@
 ### Stock wheel, gear, leg conversions
 * Update / finish / clean up the stock-part conversion patches.  Re-introduce as an optional patch set
 
+### Landing Gear
+* ALG styled side-deploy gear; e.g. spitfire wing gear
+
 ### Landing Legs
 * Single, dual, and quad landing-leg sets
   * Multiple variants.
