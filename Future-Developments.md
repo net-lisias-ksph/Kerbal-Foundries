@@ -1,10 +1,10 @@
 ## Potential new parts / mechanics:
 
-### Stock wheel, gear, leg conversions
-* Update / finish / clean up the stock-part conversion patches.  Re-introduce as an optional patch set
-
-### Landing Gear
-* ALG styled side-deploy gear; e.g. spitfire wing gear
+### More Wheels
+* Dual-wheel styled 'truck' tires.  Perhaps both single and dual wheel-collider variants.
+* Pre-rigged solid-axle suspension setup
+  * Uses two wheel colliders, one for each side.
+  * Uses constraints to align the axle to the current layout of the wheels
 
 ### Landing Legs
 * Single, dual, and quad landing-leg sets
@@ -22,8 +22,9 @@
 * Set of fan/turbine/rotors intended for use for hover-craft.
  * Will include 'ground effect' mechanics -- whenever the engine is within a certain distance of the ground (based on its size and base power), it will gain 'bonus' power output based on this distance, to simulate ground-effect feedback.
 * Potential set of hovercraft skirt parts.
-  * Possibly with some sort of inflate/deflate/compress mechanics or rigging.
+  * Possibly with some sort of inflate/deflate/compress mechanics or rigging.  
   * Might use custom plugin to drive animation based on distance from ground and presence of motors and their state.
+  * How to keep skirt pieces in synch with each other?
 
 ### Rotary aircraft parts
 * Set(s) of primary rotor blades with both thrust and torque output.
