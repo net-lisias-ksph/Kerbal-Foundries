@@ -1,5 +1,9 @@
 # Kerbal Foundries :: Change Log
 
+* 2017-0604: 2.0.2.6 (shadowmage) for KSP 1.3
+	+ Update for KSP 1.3
+	+ Include updated ModuleManager (2.8.0)
+	+ Include updated KSPWheel (0.9.5.16)
 * 2017-0319: 2.0.1.5 (shadowmage) for KSP 1.2.2
 	+ MAJOR CHANGE - Update to latest KSPWheels (0.9.4.15)
 		- Fixes several bugs and adds a few new minor features.
