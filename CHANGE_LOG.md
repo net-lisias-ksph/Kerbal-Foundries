@@ -1,5 +1,8 @@
 # Kerbal Foundries :: Change Log
 
+* 2017-0826: 2.0.2.8 (shadowmage) for KSP 1.3
+	+ Update included KSPWheel distribution.
+	+ Fix CTT patch for APU, had incorrect part name specified.
 * 2017-0715: 2.0.2.7 (shadowmage) for KSP 1.3
 	+ Update KSPWheel to latest, includes a few bug-fixes and feature enhancements.
 	+ Updated included ModuleManager to latest (2.8.1)
