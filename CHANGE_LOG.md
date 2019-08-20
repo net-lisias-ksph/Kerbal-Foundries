@@ -1,5 +1,9 @@
 # Kerbal Foundries :: Change Log
 
+* 2017-0715: 2.0.2.7 (shadowmage) for KSP 1.3
+	+ Update KSPWheel to latest, includes a few bug-fixes and feature enhancements.
+	+ Updated included ModuleManager to latest (2.8.1)
+	+ NEW PART - Large Deployable Landing Leg - Has optional angled deployment using stock animation module, with adjustable deploy-angle limit.  Model+textures by TiktaalikDreaming, rigging/configs by Shadowmage.
 * 2017-0604: 2.0.2.6 (shadowmage) for KSP 1.3
 	+ Update for KSP 1.3
 	+ Include updated ModuleManager (2.8.0)
