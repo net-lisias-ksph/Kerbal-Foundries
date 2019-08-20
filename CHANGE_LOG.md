@@ -1,5 +1,18 @@
 # Kerbal Foundries :: Change Log
 
+* 2017-0122: 2.0.0.1 (shadowmage) for KSP 1.2.2
+	+ FIX - Fix Tiny Track config.  Still had the old KF modules in it.
+	+ CHANGE - Add .version file for CKAN support
+	+ CHANGE - Add Adjustable Landing Gear parts (models/configs).
+	+ CHANGE - Add sound effects handling to all tracks and wheels.
+	+ CHANGE - Add basic sound-effects handling to wheels and tracks.  Uses motor rpm percentage of max to determine 'power' for effects.
+	+ CHANGE - Add - Dust Effects for all wheels and repulsors.  These can be disabled and configured a bit in the in-game settings/difficulty menu.  Further tweaking to come.
+	+ CHANGE - Add - Repulsors float over water.  Includes special dust-effects on water (fx need a bit more work) WIP -- has issues when crossing to underwater while in inverted position.  Disabled when fully submerged.
+	+ CHANGE - Add - Repulsors grid texture is animated.
+	+ CHANGE - Add - Repulsors offset the force-application point to be @ the repulsor; greatly increases stability.
+	+ CHANGE - Add - Repulsors can now have an 'auto-gimbal' mode enabled in the config (not available on surface-repulsor) (disabled by default).  May further increase stability beyond the force-offset changes, but may also cause spring compression unexpectedly resulting in improper suspension force calculation.
+	+ CHANGE - Default repulsor damper ratio to 0.3, increase default spring rating to 1
+	+ CHANGE - Repulsors now decrease length to 'turn-off'.  Should be much smoother when powering down repulsor-levitated craft (and when they lose power).
 * 2017-0115: 2.0.0.0 (shadowmage) for KSP 1.2.2
 	+ Initial Release
 	+ IMPORTANT
