@@ -1,5 +1,9 @@
 # Kerbal Foundries :: Change Log
 
+* 2018-0321: 2.2.4.14 (shadowmage) for KSP 141
+	+ Update included ModuleManager to latest
+	+ Update included KSPWheel to latest
+	+ Basic update for KSP 141
 * 2018-0310: 2.2.3.13 (shadowmage) for KSP 1.4
 	+ MAJOR CHANGE - Update for KSP 1.4
 	+ CHANGE - Included updated ModuleManager (3.0.5)
