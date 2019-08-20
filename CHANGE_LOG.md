@@ -1,5 +1,8 @@
 # Kerbal Foundries :: Change Log
 
+* 2018-0402: 2.2.5.15 (shadowmage) for KSP 1.4.2
+	+ Update for KSP 1.4.2
+	+ Includes updated KSPWheel - re-adds dust-effects (WIP)
 * 2018-0321: 2.2.4.14 (shadowmage) for KSP 141
 	+ Update included ModuleManager to latest
 	+ Update included KSPWheel to latest
