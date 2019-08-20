@@ -1,5 +1,28 @@
 # Kerbal Foundries :: Change Log
 
+* 2017-0306: 2.0.1.4 (shadowmage) for KSP 1.2.2
+	+ Update bundled KSPWheels to latest version (0.9.4.14)
+	+ CHANGE - Re-enable APU config.
+		- New/updated module to run it that does not use ModuleEngines*.  Now uses the stock resource converter mechanisms.
+		- Still has sound-effects, smoke-effects based on current output.
+		- Three modes - manual, linked to main throttle, or automatic.
+		- Configurable target battery % in automatic mode
+		- Toggle-able between open and closed cycle modes
+		- Should be more compatible with welded/pre-rigged parts.
+		- WIP - still some things to clean up and likely a few bugs to fix.
+	+ CHANGE - Fix up the KF-Skid to actually function.  Reworked the rigging for improved visuals.  Fixed bug that was giving it improperly high rolling resistance.
+	+ CHANGE - Clean up the KF-ScrewDrive a bit
+		- Naming is the same as the old (left) part, but there might be loading issues with old craft.
+		- Built in left-right symmetry handling.
+		- Add brakes module
+		- Adjust the torque output in motor module
+		- Add water-propulsion module
+	+ CHANGE - Remove the Screw-Drive(R) part.
+	+ CHANGE - Remove deprecated rover body config and textures.
+	+ NEW PARTS - Single and Dual wheel Truck tires.  Reworked/derivative of the KF-Large Wheel.  Both have the standard suite of options.
+	+ [](http://i.imgur.com/j5NTKqA.png)
+		- NEW PART - Large Industrial Leg - Models and textures by TiktaalikDreaming
+	+ [](http://i.imgur.com/NBNQJCE.png)
 * 2017-0225: 2.0.1.3 (shadowmage) for KSP 1.2.2
 	+ NEW PART - Side-deploying ALG model.
 	+ CHANGE - Updated ALG models and rigging.
