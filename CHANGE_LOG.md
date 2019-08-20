@@ -1,5 +1,15 @@
 # Kerbal Foundries :: Change Log
 
+* 2017-0205: 2.0.0.2 (shadowmage) for KSP 1.2.2
+	+ UPDATE - Include latest version of KSPWheel (0.9.2.11)
+	+ FIX - Incorrect brakes specifications in several tracks that were causing them to not work
+	+ CHANGE - Add updated sound effects for tracks, wheels (motor, running, slip), repulsors (hover)
+	+ FIX - Clean up ALG animation handling to eliminate clipping during animations.
+	+ FIX - Mole track non-rotating road-wheel; they now all rotate as they should (mis-named transform in model)
+	+ CHANGE - Recreate and re-rig TrackSimple for left/right models.  WARNING Craft using previous versions of TrackSimple may not load properly.
+	+ CHANGE - Trim down the wheel-slip sound to allow for looping ability.
+	+ ALSO - All the fixes listed for KSPWheel 0.9.2.11 ( https://github.com/shadowmage45/KSPWheel/releases/tag/0.9.2.11 )
+		- NOTE -- Sound effects are WIP - will be adjusting volume/pitch according to wheel base size and current scale in future releases.
 * 2017-0122: 2.0.0.1 (shadowmage) for KSP 1.2.2
 	+ FIX - Fix Tiny Track config.  Still had the old KF modules in it.
 	+ CHANGE - Add .version file for CKAN support
