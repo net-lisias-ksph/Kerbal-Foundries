@@ -1,5 +1,12 @@
 # Kerbal Foundries :: Change Log
 
+* 2017-0319: 2.0.1.5 (shadowmage) for KSP 1.2.2
+	+ MAJOR CHANGE - Update to latest KSPWheels (0.9.4.15)
+		- Fixes several bugs and adds a few new minor features.
+		- Should not contain any breaking changes.
+	+ NEW PART - Folding Hydraulic Leg - Model and textures by TiktaalikDreaming.  When clearance is a must, this leg will get the job done.  Config and balance are WIP.
+	+ CHANGE - Update textures on Large Hydraulic Leg to include specular mask (TiktaalikDreaming).
+	+ CHANGE - A few minor config cleanups for spelling/typos/consistency.
 * 2017-0306: 2.0.1.4 (shadowmage) for KSP 1.2.2
 	+ Update bundled KSPWheels to latest version (0.9.4.14)
 	+ CHANGE - Re-enable APU config.
