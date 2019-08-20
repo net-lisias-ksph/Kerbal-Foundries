@@ -1,5 +1,13 @@
 # Kerbal Foundries :: Change Log
 
+* 2017-0225: 2.0.1.3 (shadowmage) for KSP 1.2.2
+	+ NEW PART - Side-deploying ALG model.
+	+ CHANGE - Updated ALG models and rigging.
+		- WARNING -- These new models will not be compatible with the old, and the strut/wheel angles will be incorrect for vessels created with the old models.  You will need to bring the craft into the editor and adjust the angles and flip state in order to correct them.
+	+ FIX - ALG now have manually specified drag cubes
+	+ CHANGE - Update motor torque and power draw for all parts
+	+ CHANGE - Add water propulsion module to all wheels and tracks (not on the screw drive yet, need to fix those parts first)
+	+ Lots of bugfixes and updates in the latest KSPWheel version (bundled) -- https://github.com/shadowmage45/KSPWheel/releases/tag/0.9.3.13
 * 2017-0205: 2.0.0.2 (shadowmage) for KSP 1.2.2
 	+ UPDATE - Include latest version of KSPWheel (0.9.2.11)
 	+ FIX - Incorrect brakes specifications in several tracks that were causing them to not work
