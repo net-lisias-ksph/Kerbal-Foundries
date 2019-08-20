@@ -1,5 +1,20 @@
 # Kerbal Foundries :: Change Log
 
+* 2019-0306: 2.3.7.17 (shadowmage) for KSP 1.4.2 PRE-RELEASE
+	+ REMOVE ALL PREVIOUS VERSIONS OF KERBAL FOUNDRIES BEFORE INSTALLING THIS UPDATE
+	+ WARNING: THIS RELEASE IS NOT BACKWARDS COMPATIBLE WITH EXISTING CRAFT OR SAVE FILES
+		- CHANGE - Update KSPWheel
+		- CHANGE - Update included ModuleManager
+		- CHANGE - Bundle TexturesUnlimited for PBR shader use and texture-set functionality
+		- MAJOR CHANGE - Re-rig every single model.
+		- MAJOR CHANGE - Re-do every single texture for all models, using PBR shaders, including full diffuse, metallic, gloss, ao, and normal maps.
+		- MAJOR CHANGE - Repulsors got new effects...
+		- MAJOR CHANGE - Remove the 'Repulsor Gimballed'.
+		- MAJOR CHANGE - Many models had their positions, scales, orientations changed.
+		- MAJOR CHANGE - Every single part had its part-name changed (this is mostly what breaks existing craft, but also allows co-existence with old version)
+		- MAJOR CHANGE - Landing legs are now more adjustable
+		- MAJOR CHANGE - Wheels and tracks now have tread texture variants available in the editor as well as tread directional reversing capabilities
+		- MAJOR CHANGE - Probably lots more stuff that was forgotten about.... enjoy the surprises!
 * 2018-0410: 2.2.6.16 (shadowmage) for KSP 1.4.2
 	+ Update KSPWheel for bugfixes
 * 2018-0402: 2.2.5.15 (shadowmage) for KSP 1.4.2
